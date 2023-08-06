@@ -1,0 +1,12 @@
+body {
+  background-image: url('https://www.solidbackgrounds.com/images/2560x1600/2560x1600-tan-solid-color-background.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+div {
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  height: 281px;
+  width: 500px;
+}

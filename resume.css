@@ -1,5 +1,7 @@
 body {
-  background-image: url('https://www.solidbackgrounds.com/images/2560x1600/2560x1600-tan-solid-color-background.jpg')
+  background-image: url('https://www.solidbackgrounds.com/images/2560x1600/2560x1600-tan-solid-color-background.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 span {
   color:darkred;
