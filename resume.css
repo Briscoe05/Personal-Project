@@ -1,8 +1,13 @@
 body {
   background-image: url('https://www.solidbackgrounds.com/images/2560x1600/2560x1600-tan-solid-color-background.jpg')
 }
+span {
+  color:darkred;
+}
 h1 {
+  font-family: 'Alex Brush';
   text-align: center;
+  font-size: 40px;
 }
 img {
   display: block;
@@ -10,4 +15,9 @@ img {
   margin-right: auto;
   height: auto;
   width: auto; 
+}
+h2 {
+  font-family: 'Alex Brush';
+  font-size: 30px;
+  margin-bottom: 0px;
 }
